@@ -38,6 +38,8 @@ const SignUp = () => {
         console.log(data.user);
 
 
+         console.log('yeah user created------');
+
         /// form fields empty again 
         setFormData(
           {

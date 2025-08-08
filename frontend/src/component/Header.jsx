@@ -17,7 +17,7 @@ const Header = () => {
   };
 
 
-  
+
   return (
     <>
 
@@ -26,7 +26,7 @@ const Header = () => {
       <nav className="navCustom bg-white dark:bg-gray-900 fixed w-full z-20 top-0 start-0 border-gray-200 dark:border-gray-600">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           <NavLink to="/" className="flex font-bold text-3xl items-center text-black space-x-3 rtl:space-x-reverse ">
-            Q&A
+            Hijab Review
           </NavLink>
           <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
             <button
