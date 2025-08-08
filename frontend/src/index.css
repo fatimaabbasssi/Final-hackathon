@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+
+#root{
+  background-color: black;
+}
+
+nav{
+  background-color: rgb(255, 255, 255);
+ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+nav ul{
+  background-color: rgb(255, 255, 255);
+}
+
+.mainHome{
+  padding-top: 5em;
+}
